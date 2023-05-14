@@ -17,6 +17,8 @@ import com.google.firebase.auth.*
 import java.util.concurrent.TimeUnit
 
 class otp : AppCompatActivity() {
+
+    //intialize the phone OtpActivity
     private lateinit var auth : FirebaseAuth
     private lateinit var verifyBtn : Button
     private lateinit var resendTv : TextView
@@ -30,6 +32,8 @@ class otp : AppCompatActivity() {
     private lateinit var resendToken : PhoneAuthProvider.ForceResendingToken
     private lateinit var phoneNumber : String
     private lateinit var progressBar: ProgressBar
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_otp)
