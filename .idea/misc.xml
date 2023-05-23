@@ -11,11 +11,15 @@
         <entry key="..\:/Farmer/app/src/main/res/drawable-v24/top_background_gradient.xml" value="0.1345" />
         <entry key="..\:/Farmer/app/src/main/res/drawable-v24/white_background.xml" value="0.1345" />
         <entry key="..\:/Farmer/app/src/main/res/drawable/edit.xml" value="0.1345" />
+        <entry key="..\:/Farmer/app/src/main/res/drawable/ic_person.xml" value="0.163" />
+        <entry key="..\:/Farmer/app/src/main/res/layout/activity_dash_board.xml" value="0.22644927536231885" />
         <entry key="..\:/Farmer/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
         <entry key="..\:/Farmer/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Farmer/app/src/main/res/layout/activity_main_page.xml" value="0.2" />
         <entry key="..\:/Farmer/app/src/main/res/layout/activity_maps.xml" value="0.12" />
         <entry key="..\:/Farmer/app/src/main/res/layout/activity_otp.xml" value="0.22826086956521738" />
+        <entry key="..\:/Farmer/app/src/main/res/layout/drawer_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Farmer/app/src/main/res/menu/menu_drawer.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
