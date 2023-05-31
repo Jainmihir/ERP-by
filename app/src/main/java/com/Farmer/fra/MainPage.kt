@@ -50,7 +50,11 @@ class MainPage : AppCompatActivity() {
 
                 }
                 R.id.profile->Toast.makeText(applicationContext,"clicked on profile",Toast.LENGTH_SHORT).show()
-
+                R.id.fee->{
+                    Toast.makeText(applicationContext,"clicked on Fees",Toast.LENGTH_SHORT).show()
+                    val intent = Intent(this@MainPage,Payment::class.java)
+                    startActivity(intent)
+                }
 
             }
             true
