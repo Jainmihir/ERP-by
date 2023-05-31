@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">Farmer</string>
-
+    <string name="app_name">ERP</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_google_maps">GoogleMapsActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
